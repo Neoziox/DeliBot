@@ -168,7 +168,7 @@
 	"RAID_EXIST":{
 		"US": "This raid already exists, so it will not be created.",
 		"SE": "Denna raid finns redan, så den kommer inte att skapas.",
-		"FR": "Ce raid existe deja, il ne va donc pas être recréé.",
+		"FR": "Ce raid existe déjà, il ne va donc pas être recréé.",
 		"DE": "Dieser Raid ist bereits vorhanden und wird daher nicht erstellt.",
 		"NL": "This raid already exists, so it will not be created.",
 		"GR": "This raid already exists, so it will not be created."
@@ -232,7 +232,7 @@
 	"WHAT_POKEMON":{
 		"US": "What Pokémon?",
 		"SE": "Vilken Pokémon?",
-		"FR": "Quel Pokemon ?",
+		"FR": "Quel Pokémon ?",
 		"DE": "Welches Pokemon?",
 		"NL": "What Pokémon?",
 		"GR": "What Pokémon?"
@@ -280,7 +280,7 @@
 	"WHAT_POKESTOP":{
 		"US": "What pokestop?",
 		"SE": "Vilket pokestop?",
-		"FR": "Quel pokestop ?",
+		"FR": "Quel pokéstop ?",
 		"DE": "Welcher PokéStop?",
 		"NL": "What pokestop?",
 		"GR": "What pokestop?"
@@ -288,7 +288,7 @@
 	"TYPE_BELOW":{
 		"US": "Type below:",
 		"SE": "Skriv nedan:",
-		"FR": "Ecrire ci dessous :",
+		"FR": "Écrire ci-dessous :",
 		"DE": "Gib unten ein:",
 		"NL": "Type below:",
 		"GR": "Type below:"
@@ -328,7 +328,7 @@
 	"NAME_NOT_FOUND_DESC":{
 		"US": "Try reporting a Research Quest or create a Raid that successfully expires with at least 2 people attending.",
 		"SE": "Prova att rapportera en Research Quest eller skapa en Raid som löper ut med minst 2 personer som deltar.",
-		"FR": "Try reporting a Research Quest or create a Raid that successfully expires with at least 2 people attending.",
+		"FR": "Essayez de signaler une recherche ou de créer un raid qui se termine avec au moins deux personnes présentes.",
 		"DE": "Versuche eine Feldforschung oder einen Raid mit mindestens 2 Teilnehmern zu erstellen.",
 		"NL": "Try reporting a Research Quest or create a Raid that successfully expires with at least 2 people attending.",
 		"GR": "Try reporting a Research Quest or create a Raid that successfully expires with at least 2 people attending."
@@ -384,7 +384,7 @@
 	"FUSION_ERROR":{
 		"US": "Keep in mind that only generation 1 exists, and you have to spell the Pokémon correctly.",
 		"SE": "Tänk på att endast generation 1 finns, och du måste stava Pokémon korrekt.",
-		"FR": "Gardez à l'esprit que seule la 1ere génération existe, et que vous devez écrire correctement le nom des pokémons.",
+		"FR": "Gardez à l'esprit que seule la 1re génération existe, et que vous devez écrire correctement le nom des pokémons.",
 		"DE": "Denke daran, dass das nur für die 1. Generation existiert und du das Pokémon korrekt geschrieben hast.",
 		"NL": "Keep in mind that only generation 1 exists, and you have to spell the Pokémon correctly.",
 		"GR": "Keep in mind that only generation 1 exists, and you have to spell the Pokémon correctly."
